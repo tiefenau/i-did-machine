@@ -9,15 +9,11 @@ Table of contents
 
 - `Installing`_
 
-- `Getting started`_
-
-  #. `Learning by example`_
-
-  #. `Logging`_
-
-  #. `Documentation`_
-
 
 ============
 Introduction
+============
+
+============
+Installing
 ============
