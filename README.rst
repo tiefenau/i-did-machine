@@ -1,4 +1,6 @@
-# i-did-machine
+=================
+The "I did..."-machine
+=================
 Track your daily achievements in a cool way!
 
 =================
